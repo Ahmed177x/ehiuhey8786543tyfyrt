@@ -34,7 +34,7 @@ const dateFormat = require('dateformat');
 
 
 const prefix = "!"
-const developers = "484277993397551135"
+const developers = ""
 
 ////////
 
@@ -142,4 +142,4 @@ msg.delete();
 
 
 
-client.login("NzQ1MDgzMjQzODQ1NjQ4NDI2.Xzsm2A.18PBBWP-1LosXUXL29ob2IrEhwo");
+client.login("");
